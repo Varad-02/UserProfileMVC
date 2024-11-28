@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|C:\\Users\\win\\source\\repos\\UserProfileMVC1\\userprofilemvc1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|c:\\users\\win\\source\\repos\\userprofilemvc1\\userprofilemvc1\\content\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\content\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|C:\\Users\\win\\source\\repos\\UserProfileMVC1\\userprofilemvc1\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|C:\\Users\\win\\source\\repos\\UserProfileMVC1\\userprofilemvc1\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|C:\\Users\\win\\source\\repos\\UserProfileMVC1\\userprofilemvc1\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|C:\\Users\\win\\source\\repos\\UserProfileMVC1\\userprofilemvc1\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|C:\\Users\\win\\source\\repos\\UserProfileMVC1\\userprofilemvc1\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|C:\\Users\\win\\source\\repos\\UserProfileMVC1\\userprofilemvc1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|C:\\Users\\win\\source\\repos\\UserProfileMVC1\\userprofilemvc1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|C:\\Users\\win\\source\\repos\\UserProfileMVC1\\userprofilemvc1\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|C:\\Users\\win\\source\\repos\\UserProfileMVC1\\userprofilemvc1\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|C:\\Users\\win\\source\\repos\\UserProfileMVC1\\userprofilemvc1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|C:\\Users\\win\\source\\repos\\UserProfileMVC1\\userprofilemvc1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|C:\\Users\\win\\source\\repos\\UserProfileMVC1\\userprofilemvc1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|C:\\Users\\win\\source\\repos\\UserProfileMVC1\\userprofilemvc1\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E2F4C5-EBAE-4274-A4E6-EACED45B0C7A}|UserProfileMVC1\\UserProfileMVC1.csproj|solutionrelative:userprofilemvc1\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap-grid.min.css",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Content\\bootstrap-grid.min.css",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\Content\\bootstrap-grid.min.css",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Content\\bootstrap-grid.min.css",
+              "RelativeToolTip": "UserProfileMVC1\\Content\\bootstrap-grid.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-11T12:39:06.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Content\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\Content\\StyleSheet1.css",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Content\\StyleSheet1.css",
+              "RelativeToolTip": "UserProfileMVC1\\Content\\StyleSheet1.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-04T12:30:44.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap-grid.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\Content\\bootstrap-grid.rtl.min.css",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeToolTip": "UserProfileMVC1\\Content\\bootstrap-grid.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-01T17:17:50.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "UserProfileMVC1\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T21:43:34.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "UserProfileMVC1\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T21:45:14.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "UserProfileMVC1\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T21:29:22.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "UserProfileMVC1\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T21:44:30.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UserProfileMVC1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T12:34:57.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "UserProfileMVC1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:48:21.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserProfileMVC1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:35:30.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\DAL\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\DAL\\UserRepository.cs",
+              "RelativeToolTip": "UserProfileMVC1\\DAL\\UserRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAjwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:25:10.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UserProfileMVC1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T17:18:32.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Web.config",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\Web.config",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Web.config",
+              "RelativeToolTip": "UserProfileMVC1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-19T18:46:35.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Global.asax.cs",
+              "RelativeToolTip": "UserProfileMVC1\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:21:41.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "UserProfileMVC1\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\win\\source\\repos\\UserProfileMVC1\\UserProfileMVC1\\Models\\UserProfile.cs",
+              "RelativeToolTip": "UserProfileMVC1\\Models\\UserProfile.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:06:15.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
